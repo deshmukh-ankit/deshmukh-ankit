@@ -5,7 +5,7 @@ I am Ankit Deshmukh, currently training as a Web Developer at the [RTSoft Soluti
 [![Linkedin Badge](https://img.shields.io/badge/-deshmukhankit-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/deshmukhankit/)](https://www.linkedin.com/in/deshmukhankit/)
 [![Gmail Badge](https://img.shields.io/badge/-deshmukhankit678@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:deshmukhankit678@gmail.com)](mailto:deshmukhankit678@gmail.com)
 [![Facebook Badge](https://img.shields.io/badge/ankitdeshmukh-1877F2?style=flat-square&logo=facebook&logoColor=white&link=https://www.facebook.com/ankit.deshmukh.9809/)](https://www.facebook.com/ankit.deshmukh.9809/)
-[![Twitter](https://img.shields.io/badge/ankitdeshmukh-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white&link=https://twitter.com/_ankit_deshmukh)](https://twitter.com/_ankit_deshmukh)
+[![Twitter](https://img.shields.io/badge/ankitdeshmukh-%231DA1F2.svg?style=flat-square&logo=Twitter&logoColor=white&link=https://twitter.com/_ankit_deshmukh)](https://twitter.com/_ankit_deshmukh)
 
 ## ⚡ Technologies
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
