@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I am Ankit Deshmukh, currently training as a Web Developer at the [RTSoft Solutions](http://rtsoftsolutions.com/). I am a Full-Stack developer and love writing clean and maintainable code. Find out more about me & feel free to connect with me here:
+I am Ankit Deshmukh, currently training as a Web Developer at the [RTSoft Solutions](http://rtsoftsolutions.com/). I am a open to work and love writing clean, efficint and maintainable code. Find out more about me & feel free to connect with me here:
 
 [![Linkedin Badge](https://img.shields.io/badge/-deshmukhankit-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/deshmukhankit/)](https://www.linkedin.com/in/deshmukhankit/)
 [![Gmail Badge](https://img.shields.io/badge/-deshmukhankit678@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:deshmukhankit678@gmail.com)](mailto:deshmukhankit678@gmail.com)
