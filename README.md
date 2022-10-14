@@ -28,7 +28,7 @@ I am Ankit Deshmukh, currently training as a Web Developer at the [RTSoft Soluti
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
 
-[![Ankit's github stats](https://github-readme-stats.vercel.app/api?username=deshmukh-ankit)](https://github.com/deshmukh-ankit/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=deshmukh-ankit&layout=compact)](https://github.com/deshmukh-ankit/github-readme-stats)
+[![Ankit's GitHub stats](https://github-readme-stats.vercel.app/api?username=deshmukh-ankit&show_icons=true&theme=radical)](https://github.com/deshmukh-ankit/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=deshmukh-ankit&langs_count=8)](https://github.com/deshmukh-ankit/github-readme-stats)
 
 ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=deshmukh-ankit.deshmukh-ankit)
