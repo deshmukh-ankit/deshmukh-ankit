@@ -1,4 +1,4 @@
-### Hi there 👋
+# Hi there 👋
 
 I am Ankit Deshmukh, currently training as a Web Developer at the [RTSoft Solutions](http://rtsoftsolutions.com/). I am a open to work and love writing clean, efficient and maintainable code. Find out more about me & feel free to connect with me here:
 
@@ -23,9 +23,7 @@ I am Ankit Deshmukh, currently training as a Web Developer at the [RTSoft Soluti
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![CodeChef](https://img.shields.io/badge/CodeChef-%23964B00.svg?style=for-the-badge&logo=CodeChef&logoColor=white)
 ![Hackerrank](https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white)
-![LeetCode](https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=#d16c06)
 ![Microsoft](https://img.shields.io/badge/Microsoft-0078D4?style=for-the-badge&logo=microsoft&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
 
 [![Ankit's GitHub stats](https://github-readme-stats.vercel.app/api?username=deshmukh-ankit&show_icons=true&theme=radical)](https://github.com/deshmukh-ankit/github-readme-stats)
