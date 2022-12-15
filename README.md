@@ -1,5 +1,5 @@
 # Hi there 👋
-
+ <img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Coder GIF" width="500" height="400">
 I am Ankit Deshmukh, currently training as a Web Developer at the [RTSoft Solutions](http://rtsoftsolutions.com/). I am a open to work and love writing clean, efficient and maintainable code. Find out more about me & feel free to connect with me here:
 
 [![Linkedin Badge](https://img.shields.io/badge/-deshmukhankit-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/deshmukhankit/)](https://www.linkedin.com/in/deshmukhankit/)
