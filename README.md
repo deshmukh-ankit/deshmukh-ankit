@@ -5,6 +5,7 @@ I am Ankit Deshmukh, currently training as a Web Developer at the [RTSoft Soluti
 [![Gmail Badge](https://img.shields.io/badge/-deshmukhankit678@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:deshmukhankit678@gmail.com)](mailto:deshmukhankit678@gmail.com)
 [![Facebook Badge](https://img.shields.io/badge/ankitdeshmukh-1877F2?style=flat-square&logo=facebook&logoColor=white&link=https://www.facebook.com/ankit.deshmukh.9809/)](https://www.facebook.com/ankit.deshmukh.9809/)
 [![Twitter](https://img.shields.io/badge/ankitdeshmukh-%231DA1F2.svg?style=flat-square&logo=Twitter&logoColor=white&link=https://twitter.com/_ankit_deshmukh)](https://twitter.com/_ankit_deshmukh)
+<a href="https://blogging-with-ankit.blogspot.com/" target="blank">![Blogger](https://img.shields.io/badge/Blog-FF5722?style=for-the-badge&logo=blogger&logoColor=white&link=https://blogging-with-ankit.blogspot.com/)</a>
 
 ## ⚡ Technologies
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
@@ -24,6 +25,7 @@ I am Ankit Deshmukh, currently training as a Web Developer at the [RTSoft Soluti
 ![CodeChef](https://img.shields.io/badge/CodeChef-%23964B00.svg?style=for-the-badge&logo=CodeChef&logoColor=white)
 ![Hackerrank](https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white)
 ![Microsoft](https://img.shields.io/badge/Microsoft-0078D4?style=for-the-badge&logo=microsoft&logoColor=white)
+![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 
 [![Ankit's GitHub stats](https://github-readme-stats.vercel.app/api?username=deshmukh-ankit&show_icons=true&theme=radical)](https://github.com/deshmukh-ankit/github-readme-stats)
 
